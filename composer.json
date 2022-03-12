@@ -1,0 +1,9 @@
+{
+  "name": "vender/sendgrid-sendgrid",
+  "require": {
+    "sendgrid/sendgrid": "^7.11"
+  },
+  
+  "description": "This library allows you to quickly and easily send emails through Twilio SendGrid using PHP."
+  
+}
