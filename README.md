@@ -4,7 +4,7 @@ A portfolio website written in HTML and PHP for Heroku deployment.
 
 
 ### Urgent Update
-Porfolio has moved from https://mj221.github.io/ to https://mj221-portfolio.herokuapp.com/.
+Porfolio has moved from https://mj221.github.io/ to https://mj221-portfolio.herokuapp.com/ due to technical limitations and new upgrades.
 
 The portfolio is available here:
 ```
