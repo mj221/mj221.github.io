@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mj221-portfolio.herokuapp.com
+Token: 53df19ad68753ae52a2991ec0ca5b7a256b1299c8789f221f5fb219da7b6690e
