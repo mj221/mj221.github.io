@@ -2,4 +2,4 @@
 .htaccess
 /vendor/
 .DS_store
-.well-known
+/.well-known/
