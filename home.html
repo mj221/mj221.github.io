@@ -211,7 +211,7 @@
 							<h2>My Latest CV</h2>
 						</header>
 
-						<iframe src="./assets/pdf/MJ_CV_LATEST.pdf" width="75%" height="750px"></iframe>
+						<iframe id = "frame-id" src="./assets/pdf/MJ_CV_LATEST.pdf" width="75%" height="750px"></iframe>
 
 					</div>
 				</section>
@@ -275,6 +275,10 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script>
+			    var frameElement = document.getElementById("frame-id");
+			    frameElement.contentWindow.location.href = frameElement.src;
+			</script>
 
 	</body>
 </html>
